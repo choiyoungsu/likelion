@@ -1,6 +1,5 @@
 # likelion
-
-# Klaytn Bapp
+- Klaytn Bapp Lecture 22.02.10
 
 # Version 
 : nodejs@14.18
